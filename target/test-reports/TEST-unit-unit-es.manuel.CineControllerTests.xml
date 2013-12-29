@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Manuel" name="es.manuel.CineControllerTests" tests="8" time="11.032" timestamp="2013-12-29T22:35:01">
+  <properties />
+  <testcase classname="es.manuel.CineControllerTests" name="testDelete" time="9.781" />
+  <testcase classname="es.manuel.CineControllerTests" name="testCreate" time="0.172" />
+  <testcase classname="es.manuel.CineControllerTests" name="testShow" time="0.094" />
+  <testcase classname="es.manuel.CineControllerTests" name="testList" time="0.125" />
+  <testcase classname="es.manuel.CineControllerTests" name="testSave" time="0.109" />
+  <testcase classname="es.manuel.CineControllerTests" name="testEdit" time="0.094" />
+  <testcase classname="es.manuel.CineControllerTests" name="testUpdate" time="0.203" />
+  <testcase classname="es.manuel.CineControllerTests" name="testIndex" time="0.141" />
+  <system-out><![CDATA[--Output from testDelete--
+--Output from testCreate--
+--Output from testShow--
+--Output from testList--
+--Output from testSave--
+--Output from testEdit--
+--Output from testUpdate--
+--Output from testIndex--
+]]></system-out>
+  <system-err><![CDATA[--Output from testDelete--
+--Output from testCreate--
+--Output from testShow--
+--Output from testList--
+--Output from testSave--
+--Output from testEdit--
+--Output from testUpdate--
+--Output from testIndex--
+]]></system-err>
+</testsuite>

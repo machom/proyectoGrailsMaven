@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Manuel" name="es.manuel.CineTests" tests="1" time="0.078" timestamp="2013-12-29T22:35:13">
+  <properties />
+  <testcase classname="es.manuel.CineTests" name="testSomething" time="0.078" />
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
